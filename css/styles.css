@@ -3,12 +3,6 @@
   padding: 0px auto;
 }
 
-.row-about {
-  margin: 0px auto;
-  padding: 50px 0px 10px 0px;
-  border-bottom: 1px ridge;
-}
-
 .row-content {
   margin: 0px auto;
   padding: 50px 0px 10px 0px;
@@ -32,4 +26,13 @@ address {
   font-size: 80%;
   margin: 0px;
   color: #0f0f0f;
+}
+
+body{
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+.navbar-dark{
+  background-color: #512DA8;
 }
